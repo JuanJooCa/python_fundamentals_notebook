@@ -1,0 +1,1 @@
+**teoría sobre cadenas y cómo funcionan las cadenas**
