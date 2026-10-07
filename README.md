@@ -1,1 +1,1 @@
-*teoría sobre cadenas y cómo funcionan las cadenas*
+*teoría sobre strings y cómo funcionan los strings*
