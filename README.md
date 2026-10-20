@@ -1,1 +1,1 @@
-*teoría sobre strings y cómo funcionan los strings*
+*Teoría sobre los fundamentos basicos de python*
